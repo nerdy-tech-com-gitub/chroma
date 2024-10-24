@@ -1,4 +1,4 @@
-black==23.3.0 # match what's in pyproject.toml
+black==24.3.0 # match what's in pyproject.toml
 build
 grpcio-tools==1.62.3 # Later version not compatible with protobuf 4.25.5
 httpx
