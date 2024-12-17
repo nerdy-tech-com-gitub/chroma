@@ -7,7 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "node app.js",
     "start": "node app.js",
-    "rebuild": "cd ../.. && yarn && yarn build && cd examples/node && rm -rf node_modules && yarn && yarn dev"
+    "rebuild": "cd ../.. && yarn && yarn build && cd examples/node && rm -rf node_modules && yarn && yarn dev",
+    "checkout": "git checkout"
   },
   "author": "",
   "license": "ISC",
