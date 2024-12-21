@@ -1,4 +1,4 @@
-FROM python:3.11.9
+FROM python:3.14.0a3
 ARG REBUILD_HNSWLIB
 
 SHELL ["powershell", "-Command", "$ErrorActionPreference = 'Stop'; $ProgressPreference = 'SilentlyContinue';"]
