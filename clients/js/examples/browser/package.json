@@ -6,7 +6,7 @@
   "author": "",
   "license": "Apache-2.0",
   "devDependencies": {
-    "@types/react": "^18.2.79",
+    "@types/react": "^19.0.1",
     "@vitejs/plugin-react": "^4.2.1",
     "buffer": "^5.5.0||^6.0.0",
     "chromadb-default-embed": "^2.13.2",
