@@ -63,7 +63,7 @@
     "node": ">=14.17.0"
   },
   "dependencies": {
-    "cliui": "^8.0.1",
+    "cliui": "^9.0.1",
     "isomorphic-fetch": "^3.0.0"
   },
   "peerDependencies": {
