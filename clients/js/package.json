@@ -6,7 +6,7 @@
   "author": "",
   "license": "Apache-2.0",
   "devDependencies": {
-    "@jest/globals": "^29.7.0",
+    "@jest/globals": "^30.0.3",
     "@jest/types": "^29.6.3",
     "@openapi-generator-plus/typescript-fetch-client-generator": "^1.5.0",
     "@types/jest": "^29.5.0",
